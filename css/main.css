@@ -123,8 +123,8 @@ section {
 }
 
 .brand {
-  height: 85px;
-  width: 170px;
+  height: 170px;
+  width: 85px;
   left: -15;
   right: 60;
 }
@@ -135,8 +135,8 @@ section {
 }
 
 .search-box {
-  width: 330px;
-  height: 30px;
+  width: 30px;
+  height: 330px;
   padding-top: 6px;
   padding-bottom: 6px;
   padding-left: 12px;
