@@ -36,9 +36,6 @@ h6 {
 }
 /***************************************/
 .container {
-  top: 0;
-  bottom: 0;
-  left: auto;
-  right: auto;
+  margin: 0 auto;
   max-width: 1170px;
 }
