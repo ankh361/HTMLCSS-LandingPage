@@ -185,7 +185,8 @@ section {
 }
 
 .profile-pic {
-  size: 60x60;
+  width: 60px;
+  height: 60px;
 }
 
 .profile-pic img {
