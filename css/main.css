@@ -198,7 +198,7 @@ section {
   background-image: url("../img/hero.jpg");
   height: 400px;
   background-size: cover;
-  background-position: center;
+  background-position: center center;
   text-transform: uppercase;
 }
 
@@ -222,10 +222,7 @@ section {
   letter-spacing: 2px;
   font-weight: 700;
   font-size: 21px;
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-bottom: 10px;
+  margin: 0 0 10px;
 }
 
 .banner {
